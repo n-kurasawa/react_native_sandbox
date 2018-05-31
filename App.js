@@ -34,7 +34,7 @@ export default class App extends Component<Props> {
           {instructions}
         </Text>
         <Text>
-          Hello World
+          Hello World!!
         </Text>
       </View>
     );
